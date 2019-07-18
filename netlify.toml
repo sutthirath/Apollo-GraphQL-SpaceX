@@ -1,4 +1,0 @@
-[build]
-base = "Apollo-GraphQL-SpaceX/"
-publish = "Apollo-GraphQL-SpaceX/build"
-command = "npm run build"
